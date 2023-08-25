@@ -4,4 +4,5 @@ export interface Item {
   quantity?: number;
   price?: number;
   isClicked?: boolean;
+  imageUrl?: string;
 }
